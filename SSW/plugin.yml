@@ -1,0 +1,12 @@
+name: UnongmilkPlugin
+version: 1.0
+main: com.unongmilk.main.Main
+api-version: 1.17
+
+commands:
+    test:
+        description: Unongmilk Plugin test
+    fly:
+        description: It can make it fly
+    ssw:
+        description: survival skill war helper
